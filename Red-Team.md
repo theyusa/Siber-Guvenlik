@@ -44,7 +44,7 @@ Kerberoasting, Active Directory ortamlarında kullanılan Kerberos bileşenlerin
 ### 8. DLL Injection
 DLL Injection, uygulamalara müdahale ederek kötü niyetli DLL'leri enjekte etme yöntemidir. Bu yöntem, uygulama içinde güvenlik açıkları olup olmadığını kontrol etmek için kullanılır.
 
-## Red Team Kaynakları ve Referanslar (Devamı)
+## Red Team Kaynakları ve Referanslar
 
 ### 3. NIST Cybersecurity Framework
 NIST Cybersecurity Framework, siber güvenlik stratejileri geliştirmek ve organizasyonları siber tehditlere karşı korumak amacıyla kullanılır. Red Team'in bu çerçeveyi anlaması, organizasyonların siber güvenlik uygunluğunu değerlendirmesine yardımcı olur.
