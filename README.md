@@ -15,7 +15,7 @@ Bu projede bulunan dosyalar ve kısa açıklamaları şu şekildedir:
    - Siber güvenlik takımlarının çeşitleri ve görevleri hakkında bilgiler içerir.
 
 ## 5. [Tehditlere-karsi-savunma.md](Tehditlere-karsi-savunma.md)
-    - Tehditlere karşı savunma stratejileri ve savunma mekanizmaları hakkında bilgiler içerir.
+   - Tehditlere karşı savunma stratejileri ve savunma mekanizmaları hakkında bilgiler içerir.
 
 ## 6. [Kurumsal-Saldirilari-Onleme.md](Kurumsal-Saldirilari-Onleme.md)
    - Kurumsal saldırılara karşı önleme stratejileri ve yöntemleri hakkında bilgiler içerir.
