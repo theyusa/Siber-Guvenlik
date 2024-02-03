@@ -33,4 +33,4 @@ Bu projede bulunan dosyalar ve kısa açıklamaları şu şekildedir:
    - Güvenli bulut teknolojileri ve uygulamaları hakkında bilgiler içerir.
 
 ## 11. [iot-guvenligi](iot-guvenligi)
-    - İnternet of Things (IoT) güvenliği ile ilgili bilgiler içerir.
+   - İnternet of Things (IoT) güvenliği ile ilgili bilgiler içerir.
